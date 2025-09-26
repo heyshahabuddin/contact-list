@@ -81,7 +81,7 @@ class ContactList extends StatelessWidget {
                   enabledBorder: OutlineInputBorder(
                       borderRadius: BorderRadius.circular(5),
                       borderSide: BorderSide(
-                        color: Colors.grey,
+                        color: Colors.blue,
                         width: 1.5,
                       )
                   ),
